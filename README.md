@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-sudharsan" alt="developer-sudharsan" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science, Android, Web Developement (3 Intern)**
+- 🔭 I’m currently working on **Data Science Intern, Android Development Intern, Web Development Intern(3 Intern)**
 
 - 🌱 I’m currently learning **Full SDLC, Software Testing,Jira.,**
 
