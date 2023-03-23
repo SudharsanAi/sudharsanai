@@ -5,13 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-sudharsan" alt="developer-sudharsan" /></a> </p>
 
-- 🌱 I’m currently learning **Full SDLC, Software Testing,Jira,**
+- 🔭 I’m currently working on **Data Science, Android, Web Developement (3 Intern)**
+
+- 🌱 I’m currently learning **Full SDLC, Software Testing,Jira.,**
 
 - 💬 I'm looking to learn **Redis, Postgres**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/sudharsan_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudharsan_dev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sudharsandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudharsandev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
