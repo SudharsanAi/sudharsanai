@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-sudharsan&label=Profile%20views&color=0e75b6&style=flat" alt="developer-sudharsan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-sudharsan" alt="developer-sudharsan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsan" alt="sudharsanai" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science Intern, Android Development Intern, Web Development Intern(3 Intern at same time) studying MBA)**
 
