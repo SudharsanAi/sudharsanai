@@ -9,6 +9,7 @@
 
 <h2 align="center">Anna University, Chennai (College of Engineering, Guindy)</h2>
 <h3 align="center">Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h3>
+<h3 align="center">Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h3>
 
 
 - 🔭 I’m currently working on **Full Stack Web Development Internship at NITK**
