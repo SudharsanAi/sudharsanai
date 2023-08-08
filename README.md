@@ -3,12 +3,15 @@
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharsanai&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsanai" /> </p>--->
 
-<p>Holds a Master of Engineering in Computer Science with a specialization in Big Data Analytics, reflecting a strong foundation in advanced computing and expertise in handling, analyzing, and interpreting complex data sets.Currently pursuing an MBA in Business Analytics to enhance my ability to drive data-informed strategic decisions and gain expertise in data analysis, forecasting, and business intelligence.</p>
+<p>With a Master of Engineering in Computer Science, specialized in Big Data Analytics, and currently pursuing an MBA in Business Analytics, I bring a blend of technical and business skills. My experience spans various internships in Android Development, Data Science, Web Development, and Full Stack Development. Keen to leverage these skills to solve complex business challenges, I am actively looking for software development roles to contribute to a dynamic team. Always open to connecting for opportunities and insightful discussions on the latest trends in technology and business analytics.</p>
 
 
 <h2>🎓 Highest Education</h2>
 <h4 align="left">Anna University, Chennai (College of Engineering, Guindy campus) QS Rank India #10<br>
 Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h4>
+<p></p>Holds a Master of Engineering in Computer Science with a specialization in Big Data Analytics, reflecting a strong foundation in advanced computing and expertise in handling, analyzing, and interpreting complex data sets.</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
 - 🔭 I’m currently working on **Full Stack Web Development Internship at NITK**
 
