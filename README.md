@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
 
-<h1 align="center">Anna University, Chennai (College of Engineering, Guindy)</h1>
+<h2 align="center">Anna University, Chennai (College of Engineering, Guindy)</h2>
 <h3 align="center">Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h3>
 
 
