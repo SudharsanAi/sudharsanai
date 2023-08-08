@@ -11,8 +11,6 @@
 Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h4>
 <p></p>Holds a Master of Engineering in Computer Science with a specialization in Big Data Analytics, reflecting a strong foundation in advanced computing and expertise in handling, analyzing, and interpreting complex data sets.</p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
 - 🔭 I’m currently working on **Full Stack Web Development Internship at NITK**
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, React**
@@ -20,6 +18,8 @@ Master of Engineering, MEng - Computer Science and Engineering (Specialisation i
 - 💬 I'm looking to learn **Vue.js**
 
 - ⚡ Fun fact **I always learns something new**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
