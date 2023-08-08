@@ -5,11 +5,11 @@
 
 <p>Holds a Master of Engineering in Computer Science with a specialization in Big Data Analytics, reflecting a strong foundation in advanced computing and expertise in handling, analyzing, and interpreting complex data sets.Currently pursuing an MBA in Business Analytics to enhance my ability to drive data-informed strategic decisions and gain expertise in data analysis, forecasting, and business intelligence.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
+
 <h2>🎓 Highest Education</h2>
 <h3 align="left">Anna University, Chennai (College of Engineering, Guindy campus) QS Rank India #10<br>
 Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h3>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
 - 🔭 I’m currently working on **Full Stack Web Development Internship at NITK**
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, React**
