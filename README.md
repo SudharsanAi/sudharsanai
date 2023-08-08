@@ -11,6 +11,15 @@
 Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h4>
 <p></p>Holds a Master of Engineering in Computer Science with a specialization in Big Data Analytics, reflecting a strong foundation in advanced computing and expertise in handling, analyzing, and interpreting complex data sets.</p>
 
+
+<h2>💼 Experience</h2>
+<h4 align="left">Full Stack Web Development Internship, National Institute of Technology Karnataka</h4>
+<h4 align="left">Java Full Stack Internship, Institution Of Electronics & Telecommunication Engineers</h4>
+<h4 align="left">Android Development Internship, Corizo</h4>
+<h4 align="left">Data Science Internship, Corizo</h4>
+<h4 align="left">Web Development Internship, Corizo</h4>
+
+
 - 🔭 I’m currently working on **Full Stack Web Development Internship at NITK**
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, React**
