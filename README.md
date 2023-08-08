@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
 
-<h3 style="color:blue;"align="left">Anna University, Chennai (College of Engineering, Guindy)<br>
+<h3 align="left">Anna University, Chennai (College of Engineering, Guindy)<br>
 Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h3>
+<h1 style="color:blue;">A Blue Heading</h1>
 
+<p style="color:red;">A red paragraph.</p>
 - 🔭 I’m currently working on **Full Stack Web Development Internship at NITK**
 
 - 🌱 I’m currently learning **Spring Boot, Microservices, React**
