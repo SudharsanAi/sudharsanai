@@ -1,4 +1,4 @@
-<h1 align="center">Sudharsan, BE,MEng.,</h1>
+<h1 align="center">Sudharsan</h1>
 <h3 align="center">"Coding Enthusiast 🖥️ | Lifelong Learner 📚 | Seeking oppurtunity to Fuel My Passion 💡🚀"</h3>
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharsanai&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsanai" /> </p>--->
