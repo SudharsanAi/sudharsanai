@@ -7,8 +7,8 @@
 
 
 <h2>🎓 Highest Education</h2>
-<h3 align="left">Anna University, Chennai (College of Engineering, Guindy campus) QS Rank India #10</h3>
-<h4>Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h4>
+<h4 align="left">Anna University, Chennai (College of Engineering, Guindy campus) QS Rank India #10<br>
+Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
 - 🔭 I’m currently working on **Full Stack Web Development Internship at NITK**
 
