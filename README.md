@@ -7,7 +7,7 @@
 
 
 <h2>🎓 Highest Education</h2>
-<h4 align="left">Anna University, Chennai (College of Engineering, Guindy campus) QS Rank India #10<br>
+<h4 align="left">Anna University, Chennai (College of Engineering, Guindy campus) <img class="logo" src="https://www.qs.com/wp-content/uploads/2021/03/QS30x30-solid.png" alt="logo"> QS Rank India #10<br>
 Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h4>
 <p></p>Holds a Master of Engineering in Computer Science with a specialization in Big Data Analytics, reflecting a strong foundation in advanced computing and expertise in handling, analyzing, and interpreting complex data sets.</p>
 
