@@ -1,4 +1,4 @@
-<h1 align="center">Sudharsan, BE,ME.,</h1>
+<h1 align="center">Sudharsan, BE,MEng.,</h1>
 <h3 align="center">"Coding Enthusiast 🖥️ | Lifelong Learner 📚 | Seeking oppurtunity to Fuel My Passion 💡🚀"</h3>
 
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharsanai&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsanai" /> </p>--->
@@ -6,6 +6,10 @@
 <p>Holds a Master of Engineering in Computer Science with a specialization in Big Data Analytics, reflecting a strong foundation in advanced computing and expertise in handling, analyzing, and interpreting complex data sets.Currently pursuing an MBA in Business Analytics to enhance my ability to drive data-informed strategic decisions and gain expertise in data analysis, forecasting, and business intelligence.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
+
+<h1 align="center">Anna University, Chennai (College of Engineering, Guindy)</h1>
+<h3 align="center">Master of Engineering, MEng - Computer Science and Engineering (Specialisation in Big Data Analytics)</h3>
+
 
 - 🔭 I’m currently working on **Full Stack Web Development Internship at NITK**
 
