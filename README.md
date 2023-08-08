@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharsanai" alt="sudharsanai" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Intern, Android Development Intern, Web Development Intern(3 Intern at same time) studying MBA)**
+- 🔭 I’m currently working on **Full Stack Web Development Internship at NITK**
 
-- 🌱 I’m currently learning **Full SDLC, Software Testing,Jira.,**
+- 🌱 I’m currently learning **Spring Boot, Microservices, React**
 
-- 💬 I'm looking to learn **Redis, Postgres**
+- 💬 I'm looking to learn **Vue.js**
 
 - ⚡ Fun fact **I always learns something new**
 
