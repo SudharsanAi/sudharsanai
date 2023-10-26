@@ -1,3 +1,5 @@
+<img src=”https://github.com/SudharsanAi/sudharsanai/assets/127579544/fb89ed45-e53e-4c8a-9d3a-f09f7892855b" alt=”Sudharsan”>
+
 <h1 align="center">Sudharsan</h1>
 <h3 align="center">"Coding Enthusiast 🖥️ | Lifelong Learner 📚 | Seeking oppurtunity to Fuel My Passion 💡🚀"</h3>
 
