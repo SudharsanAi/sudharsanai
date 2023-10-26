@@ -14,7 +14,8 @@ Master of Engineering, MEng - Computer Science and Engineering (Specialisation i
 
 
 <h2>💼 Experience</h2>
-<h4 align="left">⭕ Full Stack Web Development Internship, National Institute of Technology Karnataka, July 2023 - Present</h4>
+<h4 align="left">⭕ Artificial Intelligence Internship, National Institute of Technology Karnataka, August 2023 - September 2023</h4>
+<h4 align="left">⭕ Full Stack Web Development Internship, National Institute of Technology Karnataka, July 2023 - August 2023</h4>
 <h4 align="left">⭕ Java Full Stack Internship, Institution Of Electronics & Telecommunication Engineers, June 2023 - July 2023</h4>
 <h4 align="left">⭕ Android Development Internship, Corizo, March 2023 - May 2023</h4>
 <h4 align="left">⭕ Data Science Internship, Corizo, March 2023 - May 2023</h4>
