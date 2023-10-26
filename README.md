@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://github.com/SudharsanAi/sudharsanai/assets/127579544/fb89ed45-e53e-4c8a-9d3a-f09f7892855b" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/SudharsanAi/sudharsanai/assets/127579544/fb89ed45-e53e-4c8a-9d3a-f09f7892855b.png" alt=”my banner”>
 
 </p>
 <h1 align="center">Sudharsan</h1>
