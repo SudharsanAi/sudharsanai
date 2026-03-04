@@ -50,3 +50,9 @@ Docker • Linux • Nginx • Git
 ## Connect
 
 LinkedIn: https://linkedin.com/in/sudharsanofficial
+
+
+
+git add README.md
+git commit --amend
+git push origin main --force
