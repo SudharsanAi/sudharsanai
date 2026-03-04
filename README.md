@@ -1,73 +1,52 @@
 <h1 align="center">Sudharsan M</h1>
-<h3 align="center">Software Engineer | Scalable Systems | AI-Integrated Platforms</h3>
 
 <p align="center">
-Building reliable software systems, intelligent applications, and scalable technology platforms.
+Software Engineer building scalable systems and intelligent technology platforms.
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/sudharsanofficial">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://leetcode.com/sudharsanai">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-</a>
+<a href="https://linkedin.com/in/sudharsanofficial">LinkedIn</a> •
+<a href="https://leetcode.com/sudharsanai">LeetCode</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I design and build **scalable software systems** with a strong focus on  
-clean architecture, reliability, and performance in production environments.
+I design and build reliable software systems with a strong focus on clean architecture, scalability, and performance.
 
-My work focuses on:
-
-• System architecture and scalable backend platforms  
-• Distributed systems and microservice design  
-• AI-integrated and data-driven applications  
-• Production infrastructure and deployment  
+My interests include distributed systems, intelligent data-driven applications, and production-ready platform engineering.
 
 ---
 
-## 🎓 Academic Foundation
+## Academic Background
 
-My academic background combines **engineering depth, data analytics expertise, and business insight**.
+MBA — Business Analytics  
+ME — Computer Science and Engineering  
+Specialisation: Big Data Analytics  
 
-• **MBA — Business Analytics**  
-• **ME — Computer Science (Big Data Analytics)**  
-• **BE — Computer Science Engineering**
-
-This combination allows me to approach technology problems with both **technical depth and business understanding**.
+BE — Computer Science and Engineering
 
 ---
 
-## 🧠 Core Focus Areas
+## Areas of Interest
 
-• Scalable System Architecture  
-• Distributed Systems  
-• High-Performance APIs  
-• AI-Integrated Applications  
-• Data-Driven Platforms  
-
----
-
-## 🛠 Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,nodejs,js,react,spring,mysql,postgres,mongodb,redis,docker,linux,nginx,git" />
-
-</p>
+System Architecture  
+Distributed Systems  
+High-Performance APIs  
+AI-Integrated Applications  
+Scalable Platforms  
 
 ---
 
-## 🌐 Connect With Me
+## Technology
 
-<p align="center">
+Java • Python • JavaScript • Node.js • React  
+PostgreSQL • MySQL • MongoDB • Redis  
+Docker • Linux • Nginx • Git  
 
-<a href="https://linkedin.com/in/sudharsanofficial">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+---
 
-</p>
+## Connect
+
+LinkedIn: https://linkedin.com/in/sudharsanofficial
