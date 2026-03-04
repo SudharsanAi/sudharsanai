@@ -36,9 +36,9 @@ I enjoy building systems that are **robust, efficient, and engineered for real-w
 
 My academic journey combines **engineering depth, data analytics expertise, and business insight**.
 
-• **MBA — Business Analytics**  
-• **ME — Computer Science and Engineering(Big Data Analytics)**  
-• **BE — Computer Science and Engineering**
+• **MBA  — Business Analytics**  
+• **MEng — Computer Science and Engineering(Big Data Analytics)**  
+• **BEng — Computer Science and Engineering**
 
 This background helps me approach technology problems with **both technical and business perspectives**.
 
