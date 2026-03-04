@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sudharsan</h1>
+<h1 align="center">Sudharsan M</h1>
 <h3 align="center">Software Engineer | Scalable Systems | AI-Integrated Platforms</h3>
+
+<p align="center">
+Building reliable software systems, intelligent applications, and scalable technology platforms.
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/sudharsanofficial">
@@ -19,52 +23,64 @@ clean architecture, reliability, and performance in production environments.
 
 My work centers around:
 
-- Scalable backend systems
-- Distributed architectures
-- AI-integrated applications
-- Production infrastructure
+• System architecture and scalable backend platforms  
+• Distributed systems and microservice design  
+• AI-integrated and data-driven applications  
+• Production infrastructure and deployment  
 
-I enjoy building systems that are **robust, efficient, and ready for real-world scale**.
-
----
-
-## 🧠 Core Focus
-
-- System Architecture
-- Distributed Systems
-- High-Performance APIs
-- AI-Driven Applications
-- Scalable Platform Engineering
+I enjoy building systems that are **robust, efficient, and engineered for real-world scale**.
 
 ---
 
-## 🛠 Tech Stack
+## 🎓 Academic Foundation
+
+My academic journey combines **engineering depth, data analytics expertise, and business insight**.
+
+• **MBA — Business Analytics**  
+• **ME — Computer Science (Big Data Analytics)**  
+• **BE — Computer Science Engineering**
+
+This background helps me approach technology problems with **both technical and business perspectives**.
+
+---
+
+## 🧠 Core Focus Areas
+
+• Scalable System Architecture  
+• Distributed Systems  
+• High-Performance APIs  
+• AI-Integrated Applications  
+• Data-Driven Platforms  
+
+---
+
+## 🛠 Technology Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,nodejs,js,react,spring,mysql,postgres,mongodb,redis,docker,linux,nginx,git"/>
+<img src="https://skillicons.dev/icons?i=java,python,nodejs,js,react,spring,mysql,postgres,mongodb,redis,docker,linux,nginx,git" />
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudharsanai&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudharsanai&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanai&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanai&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanai&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanai&theme=tokyonight" />
 
 </p>
 
@@ -75,7 +91,7 @@ I enjoy building systems that are **robust, efficient, and ready for real-world 
 <p align="center">
 
 <a href="https://linkedin.com/in/sudharsanofficial">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
