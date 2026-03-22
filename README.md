@@ -21,11 +21,9 @@ My interests include distributed systems, intelligent data-driven applications, 
 
 ## Academic Background
 
-MBA — Business Analytics  
-ME — Computer Science and Engineering  
-Specialisation: Big Data Analytics  
-
-BE — Computer Science and Engineering
+MBA - Business Analytics  
+ME - Computer Science and Engineering (Specialisation in Big Data Analytics)  
+BE - Computer Science and Engineering
 
 ---
 
